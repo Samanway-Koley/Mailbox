@@ -5,7 +5,7 @@ Mailbox is a conceptual E-mail inbox website, Tried to make a single page websit
 
 ## Tech Stack
 
-**Languages:** HTML, CSS,
+**Languages:** HTML, CSS
 
 **Framework:** Bootstrap 5
 
